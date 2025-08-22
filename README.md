@@ -1,6 +1,6 @@
 **🎓 **Full Stack LMS Website (MERN Stack)****
 
-In this tutorial/project, we are going to build a full stack Learning Management System (LMS) website using the MERN Stack.
+In this tutorial project, we are going to build a full stack Learning Management System (LMS) website using the MERN Stack.
 This platform allows educators to publish courses online and students to enroll, purchase, and watch courses seamlessly.
 
 **🚀 Features**
